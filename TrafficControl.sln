@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficControl", "TrafficControl\TrafficControl.csproj", "{6052313D-D466-48AA-B2E4-20422D4907F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficControl.Test", "TrafficControl.Test\TrafficControl.Test.csproj", "{2DEF9A72-ADD6-4F38-B93A-E54DC475AB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6052313D-D466-48AA-B2E4-20422D4907F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6052313D-D466-48AA-B2E4-20422D4907F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6052313D-D466-48AA-B2E4-20422D4907F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6052313D-D466-48AA-B2E4-20422D4907F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEF9A72-ADD6-4F38-B93A-E54DC475AB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEF9A72-ADD6-4F38-B93A-E54DC475AB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEF9A72-ADD6-4F38-B93A-E54DC475AB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEF9A72-ADD6-4F38-B93A-E54DC475AB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754A9257-C3AC-4AFE-934E-E3790FC29263}
+	EndGlobalSection
+EndGlobal
